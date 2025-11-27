@@ -61,7 +61,7 @@ This is the official portfolio website for **Michano** (Jackson Workanuan), show
 
 ## 🌐 Live Demo
 
-Visit the live website: [Add your GitHub Pages URL here]
+Visit the live website: https://michanomichano63-alt.github.io/michano-portfolio/index.html
 
 ## 📝 License
 
